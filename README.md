@@ -34,6 +34,12 @@ See the (in-progress) [examples/](https://github.com/brennv/notebook-starter/tre
 - [bianp](http://nb.bianp.net/sort/views/)
 - [wakari](https://wakari.io/gallery)
 
+Also:
+- [Common excel tasks in Pandas](http://pbpython.com/excel-pandas-comp.html)
+- [vlookup in Pandas](http://stackoverflow.com/questions/25493625/vlookup-in-pandas-using-join)
+- [Pandas docs](http://pandas.pydata.org/pandas-docs/stable/index.html)
+- [devnami tutorial videos](https://www.youtube.com/user/devnami/search?query=notebook)
+
 ## Clean up
 
 When you're done, head back to the terminal and hit Control-C. 
