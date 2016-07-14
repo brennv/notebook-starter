@@ -48,4 +48,4 @@ If you like, delete the `projects/scipy-notebooks` folders.
 
 ## Attributions
 
-Built on top of [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
+Powered by [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
