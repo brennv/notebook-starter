@@ -4,7 +4,7 @@ For getting started with Python notebooks
 
 ## Getting started
 
-Install [Docker](http://www.docker.com/products/docker), open Terminal and run:
+Install [Docker](http://www.docker.com/products/docker), open [Terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) and run:
 
     docker run -p 8888:8888 -v ~/projects/scipy-notebooks:/home/jovyan/work \
         jupyter/scipy-notebook start-notebook.sh \
