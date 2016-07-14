@@ -2,9 +2,6 @@
 
 For getting started with Python notebooks
 
-- Getting started
-- Clean up
-
 ## Getting started
 
 Install [Docker](http://www.docker.com/products/docker), open Terminal and run:
@@ -28,4 +25,4 @@ Now grab your browser and go to [http://localhost:8888](http://localhost:8888)
 
 ## Clean up
 
-When you're done, head back to the terminal and hit, Control-C.
+When you're done, head back to the terminal and hit Control-C.
