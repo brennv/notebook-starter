@@ -18,7 +18,7 @@ This will create or sync folders `~/projects/scipy-notebooks` and start a [jupyt
 
 If this is the first time you're running it, go get a coffee and check out these [ipython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials) for inspiration.
 
-Optionally, add some csv or excel files to your new folder to play with later.
+Optionally, add some csv or excel files to the folder `~/projects/scipy-notebooks` to play with later.
 
 Once jupyter is running you'll see something like:
 
