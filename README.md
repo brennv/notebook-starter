@@ -34,7 +34,7 @@ See the (in-progress) [examples/](https://github.com/brennv/notebook-starter/tre
 - [bianp](http://nb.bianp.net/sort/views/)
 - [wakari](https://wakari.io/gallery)
 
-Also:
+Also of interest:
 - [Common excel tasks in Pandas](http://pbpython.com/excel-pandas-comp.html)
 - [vlookup in Pandas](http://stackoverflow.com/questions/25493625/vlookup-in-pandas-using-join)
 - [Pandas docs](http://pandas.pydata.org/pandas-docs/stable/index.html)
