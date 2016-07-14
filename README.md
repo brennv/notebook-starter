@@ -13,7 +13,7 @@ Install [Docker](http://www.docker.com/products/docker), open Terminal and run:
         jupyter/scipy-notebook start-notebook.sh \
         --NotebookApp.base_url=/home/jovyan/work
 
-This will create new folders `~/projects/scipy-notebooks` and start a [jupyter notebook](http://www.jupyter.org) with Python 3 and some of scientific packages installed.
+This will create or sync folders `~/projects/scipy-notebooks` and start a [jupyter notebook](http://www.jupyter.org) with Python 3 and some scientific packages installed.
 
 If this is the first time you're running it, go get a coffee and check out these [ipython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials) for inspiration.
 
