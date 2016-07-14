@@ -29,7 +29,11 @@ Now grab your browser and go to [http://localhost:8888](http://localhost:8888)
 
 ## Example notebooks
 
-In progress: see [examples](https://github.com/brennv/notebook-starter/tree/master/examples) or check out [ipython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials).
+In progress: see [examples](https://github.com/brennv/notebook-starter/tree/master/examples) or check out these galleries:
+
+- [ipython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials)
+- [bianp notebooks](http://nb.bianp.net/sort/views/)
+- [wakakari notebooks](https://wakari.io/gallery)
 
 ## Clean up
 
