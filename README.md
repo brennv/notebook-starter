@@ -2,9 +2,9 @@
 
 For getting started with Python notebooks
 
-- Getting started
-- Example notebooks
-- Clean up
+- [Getting started](https://github.com/brennv/notebook-starter#getting-started)
+- [Example notebooks](https://github.com/brennv/notebook-starter#example-notebooks)
+- [Clean up](https://github.com/brennv/notebook-starter#clean-up)
 
 ## Getting started
 
@@ -33,4 +33,6 @@ In progress: see [examples](https://github.com/brennv/notebook-starter/tree/mast
 
 ## Clean up
 
-When you're done, head back to the terminal and hit Control-C.
+When you're done, head back to the terminal and hit Control-C. 
+
+If you like, delete the `projects/scipy-notebooks` folders.
