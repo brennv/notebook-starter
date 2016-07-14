@@ -1,6 +1,6 @@
 # notebook-starter
 
-For getting started with Python notebooks
+For getting started with Python and R notebooks
 
 - [Getting started](https://github.com/brennv/notebook-starter#getting-started)
 - [Example notebooks](https://github.com/brennv/notebook-starter#example-notebooks)
@@ -10,14 +10,14 @@ For getting started with Python notebooks
 
 Install [Docker](http://www.docker.com/products/docker), open [Terminal](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) and run:
 
-    docker run -p 8888:8888 -v ~/projects/scipy-notebooks:/home/jovyan/work \
-        jupyter/scipy-notebook start-notebook.sh --NotebookApp.base_url=/home/jovyan/work
+    docker run -p 8888:8888 -v ~/projects/datascience-notebooks:/home/jovyan/work \
+        jupyter/datascience-notebook start-notebook.sh --NotebookApp.base_url=/home/jovyan/work
 
-This will create or sync folders `~/projects/scipy-notebooks` and start a [jupyter notebook](http://www.jupyter.org) with Python 3 and some scientific packages installed.
+This will create or sync folders `~/projects/datascience-notebooks` and start a [jupyter notebook](http://www.jupyter.org) with Python 3, R and some scientific packages installed.
 
 If this is the first time you're running it, go get a coffee and check out these [ipython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials) for inspiration.
 
-Optionally, add some csv or excel files to the folder `~/projects/scipy-notebooks` to play with later.
+Optionally, add some csv or excel files to the folder `~/projects/datascience-notebooks` to play with later.
 
 Once jupyter is running you'll see something like:
 
@@ -36,6 +36,10 @@ See the (in-progress) [examples/](https://github.com/brennv/notebook-starter/tre
 
 ## Clean up
 
-When you're done, head back to the terminal and hit Control-C. 
+When you're done, head back to the terminal and hit Control-C.
 
-If you like, delete the `projects/scipy-notebooks` folders.
+If you like, delete the `projects/datascience-notebooks` folders.
+
+## Attributions
+
+Powered by [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
