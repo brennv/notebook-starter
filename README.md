@@ -29,7 +29,7 @@ Now grab your browser and go to [http://localhost:8888](http://localhost:8888)
 
 ## Example notebooks
 
-In progress: see [examples](https://github.com/brennv/notebook-starter/tree/master/examples) or check out these notebook galleries:
+In progress: see the [examples/](https://github.com/brennv/notebook-starter/tree/master/examples) folder or check out these notebook galleries:
 
 - [ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials)
 - [bianp](http://nb.bianp.net/sort/views/)
