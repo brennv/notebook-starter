@@ -45,3 +45,7 @@ Also:
 When you're done, head back to the terminal and hit Control-C. 
 
 If you like, delete the `projects/scipy-notebooks` folders.
+
+## Attributions
+
+Built on top of [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
